@@ -1,0 +1,744 @@
+.home-tools-box {
+  gap: 16px;
+  width: 124px;
+  height: 359px;
+  display: flex;
+  padding: 12px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background-color: rgba(240, 240, 240, 1);
+}
+.home-frame1 {
+  top: 38px;
+  left: 24px;
+  width: 76px;
+  display: flex;
+  position: absolute;
+  max-height: 10px;
+  align-items: center;
+  flex-direction: column;
+}
+.home-frame2 {
+  top: 168px;
+  left: 24px;
+  width: 76px;
+  display: flex;
+  position: absolute;
+  max-height: 10px;
+  align-items: center;
+  flex-direction: column;
+}
+.home-logo-midj1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.home-frame3 {
+  top: 263px;
+  left: 24px;
+  width: 76px;
+  display: flex;
+  position: absolute;
+  max-height: 10px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.home-logo-figma {
+  width: 10px;
+  height: 15px;
+  display: flex;
+  position: relative;
+  flex-shrink: 1;
+}
+.home-vector01 {
+  top: 5px;
+  left: 5px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-vector02 {
+  top: 10px;
+  left: 0px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-vector03 {
+  top: -2.842170943040401e-14px;
+  left: 5px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-vector05 {
+  top: 5px;
+  left: 0px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-logo-creative-cloud {
+  width: 18px;
+  height: 18px;
+  z-index: 1;
+}
+.home-logo-miro1 {
+  width: 21px;
+  height: 20px;
+  z-index: 2;
+}
+.home-logo-notion {
+  width: 17px;
+  height: 17.722217559814453px;
+  display: flex;
+  z-index: 3;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 18px;
+  position: absolute;
+}
+.home-logo-meet {
+  width: 19px;
+  height: 15.95487117767334px;
+  display: flex;
+  z-index: 4;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector07 {
+  top: 14.678248405456543px;
+  left: 0px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.home-vector08 {
+  top: 0px;
+  left: 4.515364170074463px;
+  width: 11px;
+  height: 8px;
+  position: absolute;
+}
+.home-vector09 {
+  top: 8.12012767791748px;
+  left: 4.4971842765808105px;
+  width: 11px;
+  height: 8px;
+  position: absolute;
+}
+.home-vector10 {
+  top: 0px;
+  left: 0px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-vector11 {
+  top: 11.452203750610352px;
+  left: 0px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-vector12 {
+  top: 4.786355972290039px;
+  left: 0px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.home-vector13 {
+  top: 1.9928123950958252px;
+  left: 15.544321060180664px;
+  width: 4px;
+  height: 12px;
+  position: absolute;
+}
+.home-vector14 {
+  top: 4.495993614196777px;
+  left: 11.050602912902832px;
+  width: 4px;
+  height: 7px;
+  position: absolute;
+}
+.home-logoanalytics {
+  width: 19px;
+  height: 18px;
+  z-index: 5;
+}
+.home-tag {
+  gap: 10px;
+  display: flex;
+  padding: 2px 6px;
+  z-index: 3;
+  align-items: center;
+  border-radius: 59px;
+  margin-bottom: -6px;
+  background-color: rgba(0, 0, 0, 1);
+}
+.home-text095 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 5px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+
+  line-height: 141.99999570846558%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-content05 {
+  gap: 16px;
+  width: 76px;
+  display: flex;
+  padding: 12px 4px;
+  position: relative;
+  flex-wrap: wrap;
+  z-index: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-content06 {
+  width: 76px;
+  height: 87px;
+  z-index: 1;
+}
+.home-tag1 {
+  gap: 10px;
+  display: flex;
+  padding: 2px 6px;
+  z-index: 2;
+  align-items: center;
+  border-radius: 59px;
+  background-color: rgba(0, 0, 0, 1);
+}
+.home-text097 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 5px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 141.99999570846558%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-content07 {
+  gap: 16px;
+  width: 76px;
+  display: flex;
+  padding: 16px 4px;
+  z-index: 3;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-logo-chat-gpt1 {
+  width: 19px;
+  height: 19px;
+}
+.home-logo-copilot1 {
+  width: 18px;
+  height: 19px;
+}
+.home-logo-midjourney1 {
+  width: 19px;
+  height: 19px;
+}
+.home-logo-midjourney3 {
+  width: 19px;
+  height: 19px;
+}
+.home-tag2 {
+  gap: 10px;
+  display: flex;
+  padding: 2px 6px;
+  z-index: 4;
+  align-items: center;
+  border-radius: 59px;
+  background-color: rgba(0, 0, 0, 1);
+}
+.home-text099 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 5px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 141.99999570846558%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-title5 {
+  gap: 25px;
+  top: 12px;
+  left: 12px;
+  width: 37px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.home-name-title {
+  gap: 2px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-text101 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-experience-box {
+  gap: 16px;
+  width: 411px;
+  height: 359px;
+  display: flex;
+  padding: 12px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(240, 240, 240, 1);
+}
+.home-title6 {
+  gap: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-text103 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-job-list {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-last-job {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(39, 216, 121, 1);
+}
+.home-top-bar3 {
+  gap: 2px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.home-text105 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-tag3 {
+  gap: 10px;
+  width: 61px;
+  display: flex;
+  padding: 2px 0;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 59px;
+  justify-content: space-between;
+  background-color: rgba(126, 115, 18, 0.4000000059604645);
+}
+.home-text107 {
+  color: rgba(220, 240, 99, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 154.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+  margin-left: 5px;
+}
+.home-content08 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-job-info {
+  gap: -2px;
+  width: 124px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-text109 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-about-job {
+  gap: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-text111 {
+  color: rgba(235, 249, 241, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text113 {
+  color: rgba(235, 249, 241, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text114 {
+  color: rgba(235, 249, 241, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-featured-points {
+  gap: -2px;
+  width: 239px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.home-text116 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 8px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-job2 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-top-bar4 {
+  gap: 2px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-text120 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-content09 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-job-info1 {
+  gap: -2px;
+  width: 124px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-text122 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 10px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-about-job1 {
+  gap: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-text124 {
+  color: rgba(63, 61, 61, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text126 {
+  color: rgba(63, 61, 61, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text127 {
+  color: rgba(63, 61, 61, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-featured-points1 {
+  gap: -2px;
+  width: 239px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.home-text129 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-job3 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-top-bar5 {
+  gap: 2px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-text135 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-content10 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-job-info2 {
+  gap: -2px;
+  width: 124px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-text137 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 10px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-about-job2 {
+  gap: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-text139 {
+  color: rgba(63, 60, 60, 1);
+  height: auto;
+  font-size: 8px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-featured-points2 {
+  gap: -2px;
+  width: 239px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.home-text141 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
